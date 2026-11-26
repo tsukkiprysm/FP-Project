@@ -1,0 +1,21 @@
+codigo;nome;categoria;preco;stock;receita
+F001;Paracetamol 500mg (20 comp.);Analgésicos;2.95;45;N
+F002;Ibuprofeno 400mg (20 comp.);Anti-inflamatórios;4.20;30;N
+F003;Amoxicilina 500mg (16 cáps.);Antibióticos;6.80;12;S
+F004;Azitromicina 500mg (3 comp.);Antibióticos;8.90;7;S
+F005;Omeprazol 20mg (28 cáps.);Aparelho digestivo;5.60;20;S
+F006;Metformina 850mg (60 comp.);Diabetes;3.75;25;S
+F007;Atorvastatina 20mg (28 comp.);Cardiovascular;7.40;18;S
+F008;Lisinopril 10mg (28 comp.);Cardiovascular;4.90;0;S
+F009;Salbutamol inalador;Respiratório;5.20;10;S
+F010;Xarope para a tosse 200ml;Respiratório;7.95;14;N
+F011;Pastilhas para a garganta (24 un.);Respiratório;5.50;22;N
+F012;Vitamina C 1000mg (20 comp. eferv.);Suplementos;6.40;35;N
+F013;Magnésio (30 comp.);Suplementos;9.90;16;N
+F014;Protetor solar FPS50 50ml;Dermocosmética;14.90;9;N
+F015;Creme hidratante 200ml;Dermocosmética;11.30;12;N
+F016;Pensos rápidos (40 un.);Primeiros socorros;3.10;50;N
+F017;Álcool 70% 250ml;Primeiros socorros;1.95;40;N
+F018;Termómetro digital;Material médico;8.50;6;N
+F019;Loratadina 10mg (20 comp.);Antialérgicos;4.60;24;N
+F020;Insulina glargina (5 canetas);Diabetes;46.80;4;S

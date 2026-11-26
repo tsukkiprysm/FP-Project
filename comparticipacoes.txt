@@ -1,0 +1,6 @@
+categoria;percentagem
+Diabetes;90
+Cardiovascular;69
+Respiratório;69
+Antibióticos;37
+Aparelho digestivo;15
